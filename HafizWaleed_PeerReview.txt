@@ -1,0 +1,7 @@
+1. There is no use of back propagation in your code. Do not mention the use of back propagation in your code.
+
+2. If one hypothesis gets wrong rephrase or give your evolved hypthesis.
+
+3. All hypothesis are taken over input variables used in training or in testing of neural network instead of testing these variables in validation of a single hypothesis.
+
+4. As it fulfills the basic requirement of the coursework, So should be accepted.
